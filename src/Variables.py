@@ -20,6 +20,7 @@ isApteraAcademyCool = True
 # list type variable
 grocery_list = ["Bag of peaches","Loaf of Bread","Bottle of water"]
 
+
 # dict type variable
 # contains a key then value for every index
 grocery_dict = {"Bag of Peaches":1,"Loaf of Bread": 3, "Bottle of water": 10}
