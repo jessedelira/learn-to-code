@@ -11,7 +11,6 @@ def greeting_message(name: str) -> None:
     print("Hi {one}, great to see you!".format(one=name))
 
 
-
 print("The cost of week is: ", cost_of_gas_per_week(100,10.5,15))
 
 greeting_message("everyone")
