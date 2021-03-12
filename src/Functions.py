@@ -2,8 +2,6 @@
 # out a how much a person pay for gas per week
 
 
-
-
 #   name of function     parameters of function
 def cost_of_gas_per_week(miles_driven: float, price_per_gallon: float, miles_per_gallon: float) -> float:
     total_cost = (miles_driven/miles_per_gallon)*price_per_gallon
